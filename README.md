@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![HADB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HADB&count_private=true&theme=vue-dark)
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=HADB&theme=onedark)
