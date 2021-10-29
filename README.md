@@ -1,19 +1,11 @@
-### Hi there 👋
-
-<!--
-**HADB/HADB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![HADB's GitHub stats](https://github-readme-stats.vercel.app/api?username=HADB&count_private=true&theme=vue-dark)
-![](https://github-profile-trophy.vercel.app/?username=HADB&theme=onedark&column=7&margin-w=10)
+<div align=center>
+  
+  # Hi, this is Bean Deng 👋
+  
+  [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HADB&layout=compact&count_private=true&theme=vue-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HADB&count_private=true&theme=vue-dark&custom_title=GitHub%20Stars)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=HADB&theme=onedark&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
