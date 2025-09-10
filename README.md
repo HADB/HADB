@@ -10,6 +10,6 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=HADB&column=8&no-frame=true&title=-Organizations,-Reviews,-Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bean&layout=compact&langs_count=16&theme=material-palenight)](https://wakatime.com/@Bean)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bean&layout=compact&langs_count=16&theme=transparent)](https://wakatime.com/@Bean)
 
 </div>
